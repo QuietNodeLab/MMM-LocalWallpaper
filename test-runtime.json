@@ -1,0 +1,6 @@
+{
+  "url": "https://github.com/MagicMirrorOrg/MagicMirror",
+  "commit": "f138f5b690ceab6450f55c852ac81d268363f563",
+  "version": "2.38.0",
+  "node": ">=24"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mmm-localwallpaper",
+  "version": "0.1.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Offline local wallpaper slideshows for MagicMirror",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "check": "node scripts/check.cjs",
+    "test": "npm run check && node --test tests/*.test.cjs",
+    "test:browser": "node tests/browser.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuietNodeLab/MMMM-LocalWallpaper.git"
+  }
+}

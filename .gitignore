@@ -1,0 +1,15 @@
+node_modules/
+.runtime/
+.validation/
+*.local.json
+.env
+*.log
+.env.*
+*.pem
+*.key
+*.local.js
+config.js
+images/*
+!images/README.md
+!images/sample-landscape.png
+!images/sample-dusk.png
