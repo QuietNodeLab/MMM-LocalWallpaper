@@ -17,7 +17,7 @@ From your MagicMirror installation:
 
 ```sh
 cd modules
-git clone https://github.com/QuietNodeLab/MMMM-LocalWallpaper.git MMM-LocalWallpaper
+git clone https://github.com/QuietNodeLab/MMM-LocalWallpaper.git MMM-LocalWallpaper
 ```
 
 No extra runtime
